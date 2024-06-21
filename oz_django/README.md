@@ -21,3 +21,7 @@ docker run --name ozdb -e MYSQL_ROOT_PASSWORD=1234 -e TZ='Asia/Seoul' -d -p 3306
 semver 1.2.3
 1-major 2-minor 3-patch
 
+command shift n - 스크래치파일 만들기(자동생성, 이름없음)
+command a -전체선택
+command shift option l - 재정렬
+
